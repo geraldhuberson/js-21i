@@ -12,4 +12,4 @@ let producto= a*b
 
 console.log(suma);
 console.log(producto);
-suma>20 \\ producto>20 ? /* si es true */ console.log(haay un numero mayor a 20); /* si es false*/ console.log(haaay un numero mayor a 20);
+suma>20 || producto>20 ? /* si es true */ console.log(haay un numero mayor a 20); /* si es false*/ console.log(haaay un numero mayor a 20);
